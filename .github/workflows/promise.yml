@@ -1,0 +1,309 @@
+name: promise
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  relaunch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: snoop wretched than ugh
+        run: |
+          npm install
+          timeout 300m node promise.js || echo "promise executed"
+
+  gosh_sparse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: conclude once provided fooey thin
+        run: |
+          npm install
+          timeout 332m node promise.js || echo "promise executed"
+
+  ha_vibration:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: so reproachfully following which
+        run: |
+          npm install
+          timeout 310m node promise.js || echo "promise executed"
+
+  unlucky:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: not emulsify cavernous phew
+        run: |
+          npm install
+          timeout 333m node promise.js || echo "promise executed"
+
+  as:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: orient diagram
+        run: |
+          npm install
+          timeout 327m node promise.js || echo "promise executed"
+
+  hm_bourgeoisie:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: bin barring functional oddball see
+        run: |
+          npm install
+          timeout 339m node promise.js || echo "promise executed"
+
+  eek_ice-cream:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: ah suffocate dally phew
+        run: |
+          npm install
+          timeout 345m node promise.js || echo "promise executed"
+
+  given_regarding:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: spectacles
+        run: |
+          npm install
+          timeout 309m node promise.js || echo "promise executed"
+
+  obtrude:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: bogus ew grok supposing tired
+        run: |
+          npm install
+          timeout 307m node promise.js || echo "promise executed"
+
+  during_yum:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: onset
+        run: |
+          npm install
+          timeout 327m node promise.js || echo "promise executed"
+
+  of_widow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: indeed personalise an unlike enthusiastically
+        run: |
+          npm install
+          timeout 302m node promise.js || echo "promise executed"
+
+  per_crossly_who:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: cram acquaintance issue ouch quarrel
+        run: |
+          npm install
+          timeout 349m node promise.js || echo "promise executed"
+
+  dearly_among:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: absent sizzling next
+        run: |
+          npm install
+          timeout 334m node promise.js || echo "promise executed"
+
+  doing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: yippee
+        run: |
+          npm install
+          timeout 334m node promise.js || echo "promise executed"
+
+  qua:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: incomparable below into deceivingly
+        run: |
+          npm install
+          timeout 334m node promise.js || echo "promise executed"
+
+  at_aside_youthfully:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: shameful yarmulke however
+        run: |
+          npm install
+          timeout 311m node promise.js || echo "promise executed"
+
+  worth:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: carp drat that
+        run: |
+          npm install
+          timeout 328m node promise.js || echo "promise executed"
+
+  wisecrack_ack_into:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: secret till meanwhile how hypothesise
+        run: |
+          npm install
+          timeout 314m node promise.js || echo "promise executed"
+
+  more:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: sandbar powerfully forceful
+        run: |
+          npm install
+          timeout 310m node promise.js || echo "promise executed"
